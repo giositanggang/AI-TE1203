@@ -1,12 +1,12 @@
-#Implementasi Search Algorithm dan Expert System Menggunakan Python
+Implementasi Search Algorithm dan Expert System Menggunakan Python
 
-##1. Introduction
+1. Introduction
 
 Proyek ini dibuat untuk memenuhi tugas mata kuliah Kecerdasan Buatan (Artificial Intelligence). Program ini mengimplementasikan dua konsep dasar dalam kecerdasan buatan, yaitu Search Algorithm dan Expert System, menggunakan bahasa pemrograman Python.
 
 Search Algorithm digunakan untuk mencari jalur dari titik awal menuju titik tujuan menggunakan algoritma Breadth-First Search (BFS). Sementara itu, Expert System digunakan untuk membantu melakukan pemeriksaan awal terhadap kondisi komputer berdasarkan jawaban yang diberikan oleh pengguna.
 
-##2. Objectives
+2. Objectives
 
 Tujuan dari proyek ini adalah:
 
@@ -18,7 +18,7 @@ Mengimplementasikan sistem pakar sederhana berbasis aturan untuk pemeriksaan awa
 
 Memahami penggunaan input, percabangan, fungsi, dan struktur data dalam Python.
 
-##3. Programs
+3. Programs
 
 A. Search Algorithm — Breadth-First Search (BFS)
 
@@ -67,7 +67,7 @@ Memvalidasi input agar sesuai dengan pilihan yang tersedia.
 
 Sistem menggunakan aturan berbasis kondisi (rule-based system) untuk menentukan rekomendasi yang sesuai.
 
-##4. Technologies Used
+4. Technologies Used
 
 Programming Language: Python
 
@@ -77,7 +77,7 @@ Search Algorithm: Breadth-First Search (BFS)
 
 Data Structure: Dictionary, List, Set, dan Queue (deque)
 
-##5. Project Structure
+5. Project Structure
 
 AI-TE1203-main/
 ├── expert_system.py
@@ -95,7 +95,7 @@ main.py: File program utama atau file pendukung proyek, sesuai isi kode yang dig
 
 README.md: Dokumentasi proyek.
 
-##6. Requirements
+6. Requirements
 
 Untuk menjalankan program, diperlukan:
 
@@ -105,7 +105,7 @@ Visual Studio Code atau editor Python lainnya.
 
 Terminal untuk menjalankan program.
 
-##7. How to Run the Programs
+7. How to Run the Programs
 
 Pastikan Python telah terpasang pada komputer dan terminal sudah berada di folder proyek.
 
@@ -125,7 +125,7 @@ python expert_system.py
 
 Jawab pertanyaan mengenai kondisi komputer dengan memasukkan ya atau tidak.
 
-##8. Testing
+8. Testing
 
 Pengujian dilakukan dengan memasukkan beberapa kombinasi input untuk memastikan program berjalan sesuai aturan yang telah dibuat.
 
@@ -151,18 +151,18 @@ Menguji input yang tidak valid.
 
 Hasil pengujian dicatat berdasarkan keluaran yang ditampilkan saat program dijalankan.
 
-##9. Conclusion
+9. Conclusion
 
 Proyek ini menunjukkan penerapan dua konsep kecerdasan buatan menggunakan Python. Algoritma BFS dapat digunakan untuk mencari jalur dengan jumlah langkah minimum pada graf yang tidak berbobot, sedangkan Expert System dapat memberikan rekomendasi pemeriksaan awal komputer berdasarkan aturan dan jawaban pengguna.
 
 Melalui proyek ini, mahasiswa dapat memahami konsep dasar pencarian, penalaran berbasis aturan, dan implementasi sederhana kecerdasan buatan dalam pemrograman.
 
-##10. Team Members
+10. Team Members
 
 Manager: Giovani Yulianto
 
 Developer 1: Yales Nof Romy T Mendrofa
 
-##11. Repository
+11. Repository
 
 Repository ini dibuat sebagai bagian dari tugas mata kuliah Kecerdasan Buatan (Artificial Intelligence).
